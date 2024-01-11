@@ -1,0 +1,28 @@
+header {
+  border-bottom: 1px solid #d3d6da;
+  margin-top: 10px;
+}
+
+.info-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px 0 10px;
+  margin-bottom: 4px;
+  margin-top: 5px;
+}
+
+.info-bar__bar img {
+  width: 40px;
+}
+.info-bar__icons img {
+  width: 40px;
+  margin-right: 4px;
+}
+
+.info-bar__text {
+  font-size: 40px;
+  font-weight: 900;
+  border: 300px;
+  padding: 0 0 0 90px;
+  letter-spacing: -3px;
+}
